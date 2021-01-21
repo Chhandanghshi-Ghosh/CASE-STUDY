@@ -1,0 +1,63 @@
+#gif{
+    width: 110px;
+    height: 110px;
+}
+
+body{
+    font-family: 'arial', Courier, monospace;
+    background-color: #f5dbda;
+}
+
+.logo_div{
+    background-color: white;
+    color: #000;
+}
+
+.webcam_div{
+    background-color: #ffd2c7;
+    padding: 10px;
+    border: 3px solid white;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+
+.webcam_div label{
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom: 0px;
+    width: 310px;
+}
+
+
+
+
+.footer_div{
+    margin-bottom:60px ;
+}
+
+
+#camera #s{
+    border: rgb(59, 99, 230);
+    bottom: 0;
+    width: 100%;
+
+}
+
+.footer{
+    position: fixed;
+    color: black;
+    background-color: rgb(195, 34, 201);
+    bottom:0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+.ching{
+    box-shadow: orange;
+}
+
+#conclu{
+    font-size:13px !important
+}
